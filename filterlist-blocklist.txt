@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 20200422
+! Version: 20200429
 ! Title: NotATether's Cryptocurrency Scams List (ScamWhammer)
-! Last modified: 2020-04-22
+! Last modified: 2020-04-29
 ! Expires: 7 days (update frequency)
-! Homepage: https://github.com/ZenulAbidin/adblocker-cryptoscams
+! Homepage: https://github.com/ZenulAbidin/scamwhammer
 !
 
 ! Every last HYIP will be added to this list. They're not worth the risk.
