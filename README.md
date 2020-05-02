@@ -8,3 +8,11 @@ There are thousands of scammers in the bitcoin universe and very frequently, lik
 When you visit one of these sites with this filter list, the adblocker will display a prominent page announcing that the site has been blocked. The exact page shown depends on the adblocker you are using, but generally, the name of the filter list should be there, which is aptly named "NotATether's Cryptocurrency Scams List (ScamWhammer)".
 
 This list doesn't only include bitcoin scams but it also includes scams related to other altcoins.
+
+## Adding sites and URLs
+
+To add a URL, you must put `^$document` at the end of it for adblockers to block it.
+
+To add a domain, put it in the list, and then run the `addelements.sh` bash script to add the rules for `^$document` and `##DIV` automatically. (If you're on Windows then install Cygwin or Windows Subsystem for Linux to get bash, it also needs Python 3 installed in there)
+
+Don't edit the first ten lines of the file (unless you're changing the last modified date and version number, or Expiry), because it will confuse the script.
