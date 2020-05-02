@@ -13,6 +13,10 @@ This list doesn't only include bitcoin scams but it also includes scams related 
 
 To add a URL, you must put `^$document` at the end of it for adblockers to block it.
 
-To add a domain, put it in the list, and then run the `addelements.sh` bash script to add the rules for `^$document` and `##DIV` automatically. (If you're on Windows then install Cygwin or Windows Subsystem for Linux to get bash, it also needs Python 3 installed in there)
+To add a domain, put it in the list, and then run the `addelements.sh` bash script to add the rules for `^$document` and `##DIV` automatically. If you're on Windows then install Cygwin or Windows Subsystem for Linux to get bash, it also needs Python 3 installed in there.
 
 Don't edit the first ten lines of the file (unless you're changing the last modified date and version number, or Expiry), because it will confuse the script.
+
+## Version scheme
+
+The version number takes the form `yyyymmdd.a`, where `yyyy` is the 4-digit year, `mm` is the 2-digit month, and `dd` is the two-digit day of the last update. In the case of multiple updates of the same day then `a` is a number beginning at 0 which can be incremented. Reset `a` to zero on the next day the list is updated.
