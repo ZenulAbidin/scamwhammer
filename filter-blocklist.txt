@@ -8,7 +8,7 @@
 
 ! Every last HYIP will be added to this list. They're not worth the risk.
 
-ethdoubler.me##DIV
+bitcoingenerator.space##DIV
 bitcoingenerator.work##DIV
 bitcoingenerator.me##DIV
 bitcoingenerator.me^$document
