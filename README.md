@@ -19,4 +19,4 @@ Don't edit the first ten lines of the file (unless you're changing the last modi
 
 ## Version scheme
 
-The version number takes the form `yyyymmdd.a`, where `yyyy` is the 4-digit year, `mm` is the 2-digit month, and `dd` is the two-digit day of the last update. In the case of multiple updates of the same day then `a` is a number beginning at 0 which can be incremented. Reset `a` to zero on the next day the list is updated.
+The version number takes the form `yyyymmdd.a`, where `yyyy` is the 4-digit year, `mm` is the 2-digit month, and `dd` is the two-digit day of the last update. In the case of multiple updates of the same day then `a` is a number, beginning at 0 which can be incremented. Reset `a` to zero on the next day the list is updated.
