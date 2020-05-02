@@ -3,11 +3,12 @@
 ! Title: NotATether's Cryptocurrency Scams List (ScamWhammer)
 ! Last modified: 2020-04-22
 ! Expires: 7 days (update frequency)
-! Homepage: https://github.com/ZenulAbidin/adblocker-cryptoscams
+! Homepage: https://github.com/ZenulAbidin/scamwhammer
 !
 
 ! Every last HYIP will be added to this list. They're not worth the risk.
 
+bitcoingenerator.me/*
 bitcoingenerator.me^$document
 https://www.youtube.com/watch?v=m_xCjNSik8k^$document
 https://www.youtube.com/watch?v=6zuE8NV-tk0^$document
