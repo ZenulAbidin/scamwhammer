@@ -8,8 +8,8 @@
 
 ! Every last HYIP will be added to this list. They're not worth the risk.
 
-http://bitcoingenerator.me
-https://bitcoingenerator.me
+bitcoingenerator.work##DIV
+bitcoingenerator.me##DIV
 bitcoingenerator.me^$document
 https://www.youtube.com/watch?v=m_xCjNSik8k^$document
 https://www.youtube.com/watch?v=6zuE8NV-tk0^$document
