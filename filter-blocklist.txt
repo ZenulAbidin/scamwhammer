@@ -1,13 +1,14 @@
 [Adblock Plus 2.0]
-! Version: 20200502.0
+! Version: 20200503.0
 ! Title: NotATether's Cryptocurrency Scams List (ScamWhammer)
-! Last modified: 2020-05-02
+! Last modified: 2020-05-03
 ! Expires: 7 days (update frequency)
 ! Homepage: https://github.com/ZenulAbidin/scamwhammer
 !
 
 ! Avoid adding comments after the first ten lines, my script confuses them for entries. Do not alter the first 10 lines except for update and last modified.
 
+game-protect.com
 01crypto.net
 01crypto.net##DIV
 01crypto.net^$document
@@ -20843,11 +20844,8 @@ coinsbest.pw^$document
 Coinsbin.com
 Coinsbin.com##DIV
 Coinsbin.com^$document
-coinsbit.com
 Coins-bit.com
-coinsbit.com##DIV
 Coins-bit.com##DIV
-coinsbit.com^$document
 Coins-bit.com^$document
 Coinsbitdouble.com
 Coinsbitdouble.com##DIV
@@ -75821,9 +75819,6 @@ ylena.club^$document
 yobitcoin.biz
 yobitcoin.biz##DIV
 yobitcoin.biz^$document
-yobit.net
-yobit.net##DIV
-yobit.net^$document
 yoda-x.com
 yoda-x.com##DIV
 yoda-x.com^$document
