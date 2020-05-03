@@ -8,7 +8,6 @@
 
 ! Avoid adding comments after the first ten lines, my script confuses them for entries. Do not alter the first 10 lines except for update and last modified.
 
-game-protect.com
 01crypto.net
 01crypto.net##DIV
 01crypto.net^$document
@@ -36411,6 +36410,9 @@ game-of-thrones.me^$document
 gameplex.group
 gameplex.group##DIV
 gameplex.group^$document
+game-protect.com
+game-protect.com##DIV
+game-protect.com^$document
 game-randomly.com
 game-randomly.com##DIV
 game-randomly.com^$document
