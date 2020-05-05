@@ -27452,9 +27452,6 @@ directway.xyz^$document
 Dirhamcoin.com
 Dirhamcoin.com##DIV
 Dirhamcoin.com^$document
-Discord
-Discord##DIV
-Discord^$document
 disney-land.biz
 disney-land.biz##DIV
 disney-land.biz^$document
