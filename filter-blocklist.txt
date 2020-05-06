@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 20200505.0
+! Version: 20200506.0
 ! Title: NotATether's Cryptocurrency Scams List (ScamWhammer)
-! Last modified: 2020-05-05
+! Last modified: 2020-05-06
 ! Expires: 7 days (update frequency)
 ! Homepage: https://github.com/ZenulAbidin/scamwhammer
 !
@@ -383,6 +383,9 @@
 201percent.com
 201percent.com##DIV
 201percent.com^$document
+2020hyip.com
+2020hyip.com##DIV
+2020hyip.com^$document
 2020king.com
 2020king.com##DIV
 2020king.com^$document
@@ -503,6 +506,9 @@
 24pays.com
 24pays.com##DIV
 24pays.com^$document
+24profitfund.com
+24profitfund.com##DIV
+24profitfund.com^$document
 24trusthour.trade
 24trusthour.trade##DIV
 24trusthour.trade^$document
@@ -1346,6 +1352,9 @@ acorn-crypto.com^$document
 aco-trade.info
 aco-trade.info##DIV
 aco-trade.info^$document
+acquire.network
+acquire.network##DIV
+acquire.network^$document
 acrofund.biz
 acrofund.biz##DIV
 acrofund.biz^$document
@@ -1625,6 +1634,9 @@ adv-fund.bid^$document
 advfund.biz
 advfund.biz##DIV
 advfund.biz^$document
+advfund.casa
+advfund.casa##DIV
+advfund.casa^$document
 advgain.com
 advgain.com##DIV
 advgain.com^$document
@@ -1685,6 +1697,9 @@ affinage.site^$document
 africanprospectors.com
 africanprospectors.com##DIV
 africanprospectors.com^$document
+afrodex.us
+afrodex.us##DIV
+afrodex.us^$document
 after50days.com
 after50days.com##DIV
 after50days.com^$document
@@ -2516,6 +2531,9 @@ Altenergo.net^$document
 alt-energy.biz
 alt-energy.biz##DIV
 alt-energy.biz^$document
+alterafinance.com
+alterafinance.com##DIV
+alterafinance.com^$document
 altera-fund.com
 altera-fund.com##DIV
 altera-fund.com^$document
@@ -2774,6 +2792,12 @@ amelia-invest.com^$document
 Amerextrade.com
 Amerextrade.com##DIV
 Amerextrade.com^$document
+americafund.club
+americafund.club##DIV
+americafund.club^$document
+americanbtc.club
+americanbtc.club##DIV
+americanbtc.club^$document
 american.cash
 american.cash##DIV
 american.cash^$document
@@ -3029,6 +3053,9 @@ antrius.pro^$document
 antsassets.com
 antsassets.com##DIV
 antsassets.com^$document
+anvilbtc.com
+anvilbtc.com##DIV
+anvilbtc.com^$document
 anygross.online
 anygross.online##DIV
 anygross.online^$document
@@ -3869,6 +3896,9 @@ asteroid.ltd^$document
 astiks.com
 astiks.com##DIV
 astiks.com^$document
+astilba.xyz
+astilba.xyz##DIV
+astilba.xyz^$document
 astrade.biz
 astrade.biz##DIV
 astrade.biz^$document
@@ -5714,6 +5744,9 @@ betinvests.info^$document
 Betinvest.tech
 Betinvest.tech##DIV
 Betinvest.tech^$document
+betjackpot.club
+betjackpot.club##DIV
+betjackpot.club^$document
 betlife.club
 betlife.club##DIV
 betlife.club^$document
@@ -6377,6 +6410,9 @@ binancefutures-eth.com^$document
 binanceinvests.com
 binanceinvests.com##DIV
 binanceinvests.com^$document
+binance-profit.club
+binance-profit.club##DIV
+binance-profit.club^$document
 binancepromo.com
 binancepromo.com##DIV
 binancepromo.com^$document
@@ -6815,6 +6851,9 @@ bitarena.icu^$document
 bitarena.ltd
 bitarena.ltd##DIV
 bitarena.ltd^$document
+bitarrow.biz
+bitarrow.biz##DIV
+bitarrow.biz^$document
 bitarts.uk
 bitarts.uk##DIV
 bitarts.uk^$document
@@ -9098,6 +9137,9 @@ Bitcoinsquare.pw^$document
 bitcoinssl.biz
 bitcoinssl.biz##DIV
 bitcoinssl.biz^$document
+bitcoinstation.cash
+bitcoinstation.cash##DIV
+bitcoinstation.cash^$document
 bitcoinstell.com
 bitcoinstell.com##DIV
 bitcoinstell.com^$document
@@ -9290,6 +9332,9 @@ bitcoinwallet.casa^$document
 bitcoin-wallet.net
 bitcoin-wallet.net##DIV
 bitcoin-wallet.net^$document
+bitcoin-wallet.store
+bitcoin-wallet.store##DIV
+bitcoin-wallet.store^$document
 Bitcoinware.shop
 Bitcoinware.shop##DIV
 Bitcoinware.shop^$document
@@ -9785,6 +9830,9 @@ Bitdragon.ltd^$document
 bitdragon.online
 bitdragon.online##DIV
 bitdragon.online^$document
+bitdragon.pw
+bitdragon.pw##DIV
+bitdragon.pw^$document
 bitdragon.xyz
 bitdragon.xyz##DIV
 bitdragon.xyz^$document
@@ -10610,6 +10658,9 @@ bithoger.biz^$document
 bitholder.io
 bitholder.io##DIV
 bitholder.io^$document
+bitholder.pw
+bitholder.pw##DIV
+bitholder.pw^$document
 Bitholding.net
 Bitholding.net##DIV
 Bitholding.net^$document
@@ -10754,6 +10805,9 @@ bitincome.io^$document
 bit-increase.com
 bit-increase.com##DIV
 bit-increase.com^$document
+bit-increase.pw
+bit-increase.pw##DIV
+bit-increase.pw^$document
 bitinc.trade
 bitinc.trade##DIV
 bitinc.trade^$document
@@ -10925,6 +10979,9 @@ Bitknock.com^$document
 bitkoin.co.ke
 bitkoin.co.ke##DIV
 bitkoin.co.ke^$document
+bitkoinproject.ru
+bitkoinproject.ru##DIV
+bitkoinproject.ru^$document
 bitkong.pw
 bitkong.pw##DIV
 bitkong.pw^$document
@@ -11207,6 +11264,9 @@ bit-make.com^$document
 bitmaker.pw
 bitmaker.pw##DIV
 bitmaker.pw^$document
+bitmakers.pw
+bitmakers.pw##DIV
+bitmakers.pw^$document
 bitmaker.trade
 bitmaker.trade##DIV
 bitmaker.trade^$document
@@ -11642,6 +11702,9 @@ bitokchash.com^$document
 Bitok.icu
 Bitok.icu##DIV
 Bitok.icu^$document
+bitokk.club
+bitokk.club##DIV
+bitokk.club^$document
 bitok.ltd
 bitok.ltd##DIV
 bitok.ltd^$document
@@ -11918,6 +11981,9 @@ Bitplanet.club^$document
 bitplanex.com
 bitplanex.com##DIV
 bitplanex.com^$document
+bitplanex.uno
+bitplanex.uno##DIV
+bitplanex.uno^$document
 bitplatform.info
 bitplatform.info##DIV
 bitplatform.info^$document
@@ -12125,6 +12191,9 @@ bitradeo.com^$document
 bitraders.club
 bitraders.club##DIV
 bitraders.club^$document
+bitraders.pw
+bitraders.pw##DIV
+bitraders.pw^$document
 bitraft.biz
 bitraft.biz##DIV
 bitraft.biz^$document
@@ -12254,6 +12323,9 @@ bitrex.cc^$document
 Bitrex.live
 Bitrex.live##DIV
 Bitrex.live^$document
+bitrexprofit.com
+bitrexprofit.com##DIV
+bitrexprofit.com^$document
 bitrise.trade
 bitrise.trade##DIV
 bitrise.trade^$document
@@ -12347,6 +12419,9 @@ bits-airdrop.club^$document
 bitsalary.pw
 bitsalary.pw##DIV
 bitsalary.pw^$document
+bitsan.fit
+bitsan.fit##DIV
+bitsan.fit^$document
 Bitsave.co.nf
 Bitsave.co.nf##DIV
 Bitsave.co.nf^$document
@@ -12362,6 +12437,12 @@ bitsavings.co^$document
 bitsavior.pw
 bitsavior.pw##DIV
 bitsavior.pw^$document
+bitsbank.pw
+bitsbank.pw##DIV
+bitsbank.pw^$document
+Bits-boom.com
+Bits-boom.com##DIV
+Bits-boom.com^$document
 bitsbright.com
 bitsbright.com##DIV
 bitsbright.com^$document
@@ -13250,6 +13331,9 @@ Bitviv.com^$document
 bitvolt.biz
 bitvolt.biz##DIV
 bitvolt.biz^$document
+bitvolt.pw
+bitvolt.pw##DIV
+bitvolt.pw^$document
 bitvolume.trade
 bitvolume.trade##DIV
 bitvolume.trade^$document
@@ -13478,6 +13562,9 @@ Bitx-2.com^$document
 bitx2nd.com
 bitx2nd.com##DIV
 bitx2nd.com^$document
+bitx2.to
+bitx2.to##DIV
+bitx2.to^$document
 bit-x.biz
 bit-x.biz##DIV
 bit-x.biz^$document
@@ -13688,6 +13775,9 @@ bizone.icu^$document
 bizon.global
 bizon.global##DIV
 bizon.global^$document
+Bizoninvest.ru
+Bizoninvest.ru##DIV
+Bizoninvest.ru^$document
 bizon-partners.com
 bizon-partners.com##DIV
 bizon-partners.com^$document
@@ -13922,6 +14012,9 @@ Blockchain.premiumaluminium.co.za^$document
 Blockchainsolutions.biz
 Blockchainsolutions.biz##DIV
 Blockchainsolutions.biz^$document
+blockchaintraderz.com
+blockchaintraderz.com##DIV
+blockchaintraderz.com^$document
 blockchealn.info
 blockchealn.info##DIV
 blockchealn.info^$document
@@ -14804,6 +14897,9 @@ broker-paying.fun^$document
 brokerrage.net
 brokerrage.net##DIV
 brokerrage.net^$document
+brokerssclub.eu
+brokerssclub.eu##DIV
+brokerssclub.eu^$document
 brokerstradings.com
 brokerstradings.com##DIV
 brokerstradings.com^$document
@@ -15636,8 +15732,11 @@ btcfury.top
 btcfury.top##DIV
 btcfury.top^$document
 btc-future.biz
+btcfuture.biz
 btc-future.biz##DIV
+btcfuture.biz##DIV
 btc-future.biz^$document
+btcfuture.biz^$document
 btcfuture.cc
 btcfuture.cc##DIV
 btcfuture.cc^$document
@@ -15695,6 +15794,9 @@ Btc-genesis.me^$document
 Btcgen.pro
 Btcgen.pro##DIV
 Btcgen.pro^$document
+btcgen.site
+btcgen.site##DIV
+btcgen.site^$document
 btcgen.trade
 btcgen.trade##DIV
 btcgen.trade^$document
@@ -16781,6 +16883,9 @@ btctraders.cu.cc^$document
 btc-traders.info
 btc-traders.info##DIV
 btc-traders.info^$document
+btctraders.net
+btctraders.net##DIV
+btctraders.net^$document
 btctraders.stream
 btctraders.stream##DIV
 btctraders.stream^$document
@@ -17588,6 +17693,9 @@ capitive-fund.club^$document
 capitotal.biz
 capitotal.biz##DIV
 capitotal.biz^$document
+capitotal.pw
+capitotal.pw##DIV
+capitotal.pw^$document
 capper-club.com
 capper-club.com##DIV
 capper-club.com^$document
@@ -19136,6 +19244,9 @@ Cloudstaking.net^$document
 Cloudtd.es
 Cloudtd.es##DIV
 Cloudtd.es^$document
+cloudtech.gg
+cloudtech.gg##DIV
+cloudtech.gg^$document
 cloudtokenwallet.com
 cloudtokenwallet.com##DIV
 cloudtokenwallet.com^$document
@@ -19169,6 +19280,9 @@ club-betal-trade.org^$document
 Clubcashcow.com
 Clubcashcow.com##DIV
 Clubcashcow.com^$document
+Clubexchange.club
+Clubexchange.club##DIV
+Clubexchange.club^$document
 Clubfastcoin.com
 Clubfastcoin.com##DIV
 Clubfastcoin.com^$document
@@ -19451,12 +19565,18 @@ coin-bit.biz^$document
 coinbitch.com
 coinbitch.com##DIV
 coinbitch.com^$document
+coinbitcoinmining.com
+coinbitcoinmining.com##DIV
+coinbitcoinmining.com^$document
 coinbit-fund.com
 coinbit-fund.com##DIV
 coinbit-fund.com^$document
 coinbit-games.com
 coinbit-games.com##DIV
 coinbit-games.com^$document
+coinbitinv.biz
+coinbitinv.biz##DIV
+coinbitinv.biz^$document
 coin-bit.ltd
 coin-bit.ltd##DIV
 coin-bit.ltd^$document
@@ -19646,6 +19766,9 @@ coincoach.biz^$document
 coinco.ga
 coinco.ga##DIV
 coinco.ga^$document
+coincome.fun
+coincome.fun##DIV
+coincome.fun^$document
 coincome.info
 coincome.info##DIV
 coincome.info^$document
@@ -19871,6 +19994,9 @@ coinexa.pro^$document
 coinex.best
 coinex.best##DIV
 coinex.best^$document
+coinex.company
+coinex.company##DIV
+coinex.company^$document
 Coinexpay.com
 Coinexpay.com##DIV
 Coinexpay.com^$document
@@ -23537,6 +23663,9 @@ cryptoearn.io^$document
 cryptoearn.net
 cryptoearn.net##DIV
 cryptoearn.net^$document
+cryptoearn.pw
+cryptoearn.pw##DIV
+cryptoearn.pw^$document
 cryptoearns.com
 cryptoearns.com##DIV
 cryptoearns.com^$document
@@ -24335,6 +24464,9 @@ cryptolime.trade^$document
 crypto-lnd.com
 crypto-lnd.com##DIV
 crypto-lnd.com^$document
+cryptoloan.live
+cryptoloan.live##DIV
+cryptoloan.live^$document
 cryptologycloud.biz
 cryptologycloud.biz##DIV
 cryptologycloud.biz^$document
@@ -24533,6 +24665,9 @@ Crypto-mining24.com^$document
 crypto-mining.biz
 crypto-mining.biz##DIV
 crypto-mining.biz^$document
+cryptomining.energy
+cryptomining.energy##DIV
+cryptomining.energy^$document
 Cryptomining.farm
 Cryptomining.farm##DIV
 Cryptomining.farm^$document
@@ -24647,6 +24782,9 @@ cryptoness.pro^$document
 cryptonest.ltd
 cryptonest.ltd##DIV
 cryptonest.ltd^$document
+Cryptonetus.com
+Cryptonetus.com##DIV
+Cryptonetus.com^$document
 cryptoneurox.com
 cryptoneurox.com##DIV
 cryptoneurox.com^$document
@@ -24692,6 +24830,9 @@ cryptonis.net^$document
 cryptonis.pw
 cryptonis.pw##DIV
 cryptonis.pw^$document
+cryptonits.icu
+cryptonits.icu##DIV
+cryptonits.icu^$document
 cryptonits.net
 cryptonits.net##DIV
 cryptonits.net^$document
@@ -25421,6 +25562,9 @@ cryptotraders.icu^$document
 cryptotraders.net
 cryptotraders.net##DIV
 cryptotraders.net^$document
+cryptotraders.pw
+cryptotraders.pw##DIV
+cryptotraders.pw^$document
 Cryptotrader.systems
 Cryptotrader.systems##DIV
 Cryptotrader.systems^$document
@@ -25766,6 +25910,9 @@ crystalclearfunds.club^$document
 Crystalclearfunds.com
 Crystalclearfunds.com##DIV
 Crystalclearfunds.com^$document
+crystalcoin.online
+crystalcoin.online##DIV
+crystalcoin.online^$document
 crystalcompany.xyz
 crystalcompany.xyz##DIV
 crystalcompany.xyz^$document
@@ -25910,6 +26057,9 @@ currencycrypto.co^$document
 currency-global.com
 currency-global.com##DIV
 currency-global.com^$document
+currency-mining.com
+currency-mining.com##DIV
+currency-mining.com^$document
 currency-payment.win
 currency-payment.win##DIV
 currency-payment.win^$document
@@ -26615,6 +26765,9 @@ defalis.com^$document
 defendminer.com
 defendminer.com##DIV
 defendminer.com^$document
+definitelyfinance.com
+definitelyfinance.com##DIV
+definitelyfinance.com^$document
 dekainvestments.pw
 dekainvestments.pw##DIV
 dekainvestments.pw^$document
@@ -27440,6 +27593,9 @@ directhyip.com^$document
 Directminers.com
 Directminers.com##DIV
 Directminers.com^$document
+directpays.pw
+directpays.pw##DIV
+directpays.pw^$document
 directprofit.icu
 directprofit.icu##DIV
 directprofit.icu^$document
@@ -27584,6 +27740,9 @@ doctortraders.com^$document
 doeth.io
 doeth.io##DIV
 doeth.io^$document
+dofee.biz
+dofee.biz##DIV
+dofee.biz^$document
 dogdream.club
 dogdream.club##DIV
 dogdream.club^$document
@@ -27794,6 +27953,9 @@ dogeworker.io^$document
 Dogex2.icu
 Dogex2.icu##DIV
 Dogex2.icu^$document
+doge-x.com
+doge-x.com##DIV
+doge-x.com^$document
 dogex.ltd
 dogex.ltd##DIV
 dogex.ltd^$document
@@ -27812,6 +27974,9 @@ dolevik.com^$document
 dollar24.win
 dollar24.win##DIV
 dollar24.win^$document
+dollarainpro.com
+dollarainpro.com##DIV
+dollarainpro.com^$document
 dollar-arena.com
 dollar-arena.com##DIV
 dollar-arena.com^$document
@@ -27830,6 +27995,9 @@ dollarbill.biz^$document
 dollarbill.life
 dollarbill.life##DIV
 dollarbill.life^$document
+dollarbill.ltd
+dollarbill.ltd##DIV
+dollarbill.ltd^$document
 dollarbill.ml
 dollarbill.ml##DIV
 dollarbill.ml^$document
@@ -28697,6 +28865,9 @@ Dripcoin.net^$document
 Dripinvesting.biz
 Dripinvesting.biz##DIV
 Dripinvesting.biz^$document
+drive-farm.ru
+drive-farm.ru##DIV
+drive-farm.ru^$document
 Drive-money.ru
 Drive-money.ru##DIV
 Drive-money.ru^$document
@@ -29660,6 +29831,9 @@ easy-usd.online^$document
 Easyxchange.net
 Easyxchange.net##DIV
 Easyxchange.net^$document
+eayturk.com.tr.ht
+eayturk.com.tr.ht##DIV
+eayturk.com.tr.ht^$document
 Eazybit.co
 Eazybit.co##DIV
 Eazybit.co^$document
@@ -30431,6 +30605,9 @@ elsa.fund^$document
 el-terro.com
 el-terro.com##DIV
 el-terro.com^$document
+eltotrade.biz
+eltotrade.biz##DIV
+eltotrade.biz^$document
 eltradegroup.com
 eltradegroup.com##DIV
 eltradegroup.com^$document
@@ -30596,6 +30773,9 @@ encos.cc^$document
 encos.pw
 encos.pw##DIV
 encos.pw^$document
+encryptonics.pw
+encryptonics.pw##DIV
+encryptonics.pw^$document
 en.dexvera.com
 en.dexvera.com##DIV
 en.dexvera.com^$document
@@ -30989,6 +31169,9 @@ erarium-group.com^$document
 eratechplanet.com
 eratechplanet.com##DIV
 eratechplanet.com^$document
+eratraders.pro
+eratraders.pro##DIV
+eratraders.pro^$document
 ercfinance.biz
 ercfinance.biz##DIV
 ercfinance.biz^$document
@@ -31817,6 +32000,9 @@ evogenic.biz^$document
 evolmio.com
 evolmio.com##DIV
 evolmio.com^$document
+evolutionltd.cc
+evolutionltd.cc##DIV
+evolutionltd.cc^$document
 evolution-mining.com
 evolution-mining.com##DIV
 evolution-mining.com^$document
@@ -31925,6 +32111,9 @@ Exchange-bitco.in^$document
 Exchangebitcoin.yolasite.com
 Exchangebitcoin.yolasite.com##DIV
 Exchangebitcoin.yolasite.com^$document
+Exchangemoney.info
+Exchangemoney.info##DIV
+Exchangemoney.info^$document
 exchangeprofit.biz
 exchangeprofit.biz##DIV
 exchangeprofit.biz^$document
@@ -32132,6 +32321,9 @@ experienced-team.com^$document
 expert-bitcoin.club
 expert-bitcoin.club##DIV
 expert-bitcoin.club^$document
+expertbit.pw
+expertbit.pw##DIV
+expertbit.pw^$document
 expertbusiness.pw
 expertbusiness.pw##DIV
 expertbusiness.pw^$document
@@ -32498,6 +32690,9 @@ fair-game.biz^$document
 fair-game-comeback.com
 fair-game-comeback.com##DIV
 fair-game-comeback.com^$document
+fair-game.online
+fair-game.online##DIV
+fair-game.online^$document
 fair-game.pro
 fair-game.pro##DIV
 fair-game.pro^$document
@@ -32849,6 +33044,9 @@ fastexpress.biz^$document
 fastfininv.com
 fastfininv.com##DIV
 fastfininv.com^$document
+fastfood.cash
+fastfood.cash##DIV
+fastfood.cash^$document
 fastfoodgame.biz
 fastfoodgame.biz##DIV
 fastfoodgame.biz^$document
@@ -33668,6 +33866,9 @@ fincoreinvest.top^$document
 fincorp.tech
 fincorp.tech##DIV
 fincorp.tech^$document
+Fincryptos.com
+Fincryptos.com##DIV
+Fincryptos.com^$document
 findaxcapital.com
 findaxcapital.com##DIV
 findaxcapital.com^$document
@@ -33719,6 +33920,9 @@ finfreedom.life^$document
 finguru.capital
 finguru.capital##DIV
 finguru.capital^$document
+finhour.club
+finhour.club##DIV
+finhour.club^$document
 finiko.ru
 finiko.ru##DIV
 finiko.ru^$document
@@ -34250,6 +34454,9 @@ fondpaying.club^$document
 fondplus.top
 fondplus.top##DIV
 fondplus.top^$document
+food-industry.biz
+food-industry.biz##DIV
+food-industry.biz^$document
 food-paying.pw
 food-paying.pw##DIV
 food-paying.pw^$document
@@ -35267,6 +35474,9 @@ freeprofit.live^$document
 freerisecom.com
 freerisecom.com##DIV
 freerisecom.com^$document
+freeruble.com
+freeruble.com##DIV
+freeruble.com^$document
 Free-shares.com
 Free-shares.com##DIV
 Free-shares.com^$document
@@ -36164,6 +36374,9 @@ fx-pays.com^$document
 fxpower.biz
 fxpower.biz##DIV
 fxpower.biz^$document
+fxprime.pw
+fxprime.pw##DIV
+fxprime.pw^$document
 fxprimes.com
 fxprimes.com##DIV
 fxprimes.com^$document
@@ -36200,6 +36413,9 @@ fxstability.us^$document
 fxteam.club
 fxteam.club##DIV
 fxteam.club^$document
+fxtiptop.com
+fxtiptop.com##DIV
+fxtiptop.com^$document
 fxt-legend.com
 fxt-legend.com##DIV
 fxt-legend.com^$document
@@ -36458,6 +36674,9 @@ ganpart.com^$document
 gantrade.biz
 gantrade.biz##DIV
 gantrade.biz^$document
+gap-fin.com
+gap-fin.com##DIV
+gap-fin.com^$document
 gapinvest.biz
 gapinvest.biz##DIV
 gapinvest.biz^$document
@@ -36539,6 +36758,9 @@ gb-forex.com^$document
 g-bit.biz
 g-bit.biz##DIV
 g-bit.biz^$document
+g-bit.pw
+g-bit.pw##DIV
+g-bit.pw^$document
 gbshares.biz
 gbshares.biz##DIV
 gbshares.biz^$document
@@ -37076,6 +37298,9 @@ Gethelpworldwide.com^$document
 get-hour.com
 get-hour.com##DIV
 get-hour.com^$document
+gethourly.club
+gethourly.club##DIV
+gethourly.club^$document
 gethourly.site
 gethourly.site##DIV
 gethourly.site^$document
@@ -37193,6 +37418,9 @@ ghyip.com^$document
 giant-gains.com
 giant-gains.com##DIV
 giant-gains.com^$document
+giantsbit.com
+giantsbit.com##DIV
+giantsbit.com^$document
 gibit.cc
 gibit.cc##DIV
 gibit.cc^$document
@@ -37478,6 +37706,9 @@ global-finance-ltd.biz^$document
 global-fin-invest.com
 global-fin-invest.com##DIV
 global-fin-invest.com^$document
+globalforexbank.com
+globalforexbank.com##DIV
+globalforexbank.com^$document
 global-fund.best
 global-fund.best##DIV
 global-fund.best^$document
@@ -37556,6 +37787,9 @@ Globalmine.online^$document
 globalmine.us
 globalmine.us##DIV
 globalmine.us^$document
+Globalmining.gq
+Globalmining.gq##DIV
+Globalmining.gq^$document
 Global-money.club
 Global-money.club##DIV
 Global-money.club^$document
@@ -37850,6 +38084,9 @@ gold-apex.com^$document
 goldaward.pw
 goldaward.pw##DIV
 goldaward.pw^$document
+goldax.biz
+goldax.biz##DIV
+goldax.biz^$document
 goldbarchina.com
 goldbarchina.com##DIV
 goldbarchina.com^$document
@@ -38441,6 +38678,9 @@ goldkings.biz^$document
 gold-leader.com
 gold-leader.com##DIV
 gold-leader.com^$document
+goldload.xyz
+goldload.xyz##DIV
+goldload.xyz^$document
 goldmagnet.icu
 goldmagnet.icu##DIV
 goldmagnet.icu^$document
@@ -38978,6 +39218,9 @@ graspinvest.com^$document
 Gratishack.com.ve
 Gratishack.com.ve##DIV
 Gratishack.com.ve^$document
+graybet.pro
+graybet.pro##DIV
+graybet.pro^$document
 Graybux.com
 Graybux.com##DIV
 Graybux.com^$document
@@ -40595,6 +40838,9 @@ hightechforex.com^$document
 hightinvest.com
 hightinvest.com##DIV
 hightinvest.com^$document
+hightower.biz
+hightower.biz##DIV
+hightower.biz^$document
 hightrade.biz
 hightrade.biz##DIV
 hightrade.biz^$document
@@ -40808,6 +41054,9 @@ Honestdoubler.com^$document
 honestroi.club
 honestroi.club##DIV
 honestroi.club^$document
+honest-trade.pro
+honest-trade.pro##DIV
+honest-trade.pro^$document
 honest-trader.com
 honest-trader.com##DIV
 honest-trader.com^$document
@@ -41561,6 +41810,9 @@ hourinstant.com^$document
 hourinstant.me
 hourinstant.me##DIV
 hourinstant.me^$document
+hourinterest.biz
+hourinterest.biz##DIV
+hourinterest.biz^$document
 hourinv.biz
 hourinv.biz##DIV
 hourinv.biz^$document
@@ -41585,6 +41837,9 @@ hourinvest.pro^$document
 hourinvests.com
 hourinvests.com##DIV
 hourinvests.com^$document
+hourinv.net
+hourinv.net##DIV
+hourinv.net^$document
 hourjar.com
 hourjar.com##DIV
 hourjar.com^$document
@@ -41729,6 +41984,9 @@ hourlybitcoinmining.co^$document
 hourlybitcoin.net
 hourlybitcoin.net##DIV
 hourlybitcoin.net^$document
+hourly-bitcoins.icu
+hourly-bitcoins.icu##DIV
+hourly-bitcoins.icu^$document
 hourly-bitcoins.pw
 hourly-bitcoins.pw##DIV
 hourly-bitcoins.pw^$document
@@ -41999,6 +42257,9 @@ hourlyfast.club^$document
 hourlyfastprofit.club
 hourlyfastprofit.club##DIV
 hourlyfastprofit.club^$document
+hourlyfinance.club
+hourlyfinance.club##DIV
+hourlyfinance.club^$document
 hourly-finance.pw
 hourly-finance.pw##DIV
 hourly-finance.pw^$document
@@ -42686,6 +42947,9 @@ hourprotected.biz^$document
 Hour-quatily.bid
 Hour-quatily.bid##DIV
 Hour-quatily.bid^$document
+hourqueen.club
+hourqueen.club##DIV
+hourqueen.club^$document
 hourrich.biz
 hourrich.biz##DIV
 hourrich.biz^$document
@@ -42974,6 +43238,9 @@ houryeah.com^$document
 houry.ltd
 houry.ltd##DIV
 houry.ltd^$document
+housbit7ltd.cc
+housbit7ltd.cc##DIV
+housbit7ltd.cc^$document
 House-bank.pro
 House-bank.pro##DIV
 House-bank.pro^$document
@@ -43799,6 +44066,9 @@ imicrobit.com^$document
 immenseinvest.com
 immenseinvest.com##DIV
 immenseinvest.com^$document
+immensity2020.website
+immensity2020.website##DIV
+immensity2020.website^$document
 immensity.su
 immensity.su##DIV
 immensity.su^$document
@@ -45749,9 +46019,15 @@ investorum.com^$document
 investos.biz
 investos.biz##DIV
 investos.biz^$document
+investox.icu
+investox.icu##DIV
+investox.icu^$document
 investox.net
 investox.net##DIV
 investox.net^$document
+investpark.store
+investpark.store##DIV
+investpark.store^$document
 investpaybtc.com
 investpaybtc.com##DIV
 investpaybtc.com^$document
@@ -46457,6 +46733,9 @@ jetex.biz^$document
 jetfinance.live
 jetfinance.live##DIV
 jetfinance.live^$document
+jetfinance.net
+jetfinance.net##DIV
+jetfinance.net^$document
 jetforexing.icu
 jetforexing.icu##DIV
 jetforexing.icu^$document
@@ -47681,6 +47960,9 @@ lazur.pro^$document
 lbsportsinvestment.com
 lbsportsinvestment.com##DIV
 lbsportsinvestment.com^$document
+lcash.icu
+lcash.icu##DIV
+lcash.icu^$document
 lcgfunds.com
 lcgfunds.com##DIV
 lcgfunds.com^$document
@@ -48464,6 +48746,9 @@ Litecoinbrothers.com^$document
 Litecoinclub.io
 Litecoinclub.io##DIV
 Litecoinclub.io^$document
+litecoindoubler.uno
+litecoindoubler.uno##DIV
+litecoindoubler.uno^$document
 litecoindoubler.vip
 litecoindoubler.vip##DIV
 litecoindoubler.vip^$document
@@ -49106,6 +49391,9 @@ Lucky-inv.info^$document
 Lucky-ltd.info
 Lucky-ltd.info##DIV
 Lucky-ltd.info^$document
+luckymarket.pw
+luckymarket.pw##DIV
+luckymarket.pw^$document
 lucky-paying.com
 lucky-paying.com##DIV
 lucky-paying.com^$document
@@ -49232,6 +49520,9 @@ luminex.club^$document
 luminex.investments
 luminex.investments##DIV
 luminex.investments^$document
+luminiox.com
+luminiox.com##DIV
+luminiox.com^$document
 lunarfx.io
 lunarfx.io##DIV
 lunarfx.io^$document
@@ -49685,6 +49976,9 @@ majickhour.club^$document
 major-btc.com
 major-btc.com##DIV
 major-btc.com^$document
+major-invest.fun
+major-invest.fun##DIV
+major-invest.fun^$document
 major-paying.club
 major-paying.club##DIV
 major-paying.club^$document
@@ -50063,6 +50357,9 @@ marvelbtc.com^$document
 marvel-trade.biz
 marvel-trade.biz##DIV
 marvel-trade.biz^$document
+marxcapital.org
+marxcapital.org##DIV
+marxcapital.org^$document
 marybets.com
 marybets.com##DIV
 marybets.com^$document
@@ -51470,6 +51767,9 @@ mineconomy.io^$document
 minecypher.com
 minecypher.com##DIV
 minecypher.com^$document
+minedouble.club
+minedouble.club##DIV
+minedouble.club^$document
 mine-fund.club
 minefund.club
 mine-fund.club##DIV
@@ -52037,6 +52337,9 @@ Miroskii.com^$document
 miss-fund.pw
 miss-fund.pw##DIV
 miss-fund.pw^$document
+missionbux.com
+missionbux.com##DIV
+missionbux.com^$document
 mission-money.com
 mission-money.com##DIV
 mission-money.com^$document
@@ -52235,6 +52538,9 @@ modern-funds.com^$document
 modern-gold.win
 modern-gold.win##DIV
 modern-gold.win^$document
+modernincome.site
+modernincome.site##DIV
+modernincome.site^$document
 modern-invest.biz
 modern-invest.biz##DIV
 modern-invest.biz^$document
@@ -52628,6 +52934,9 @@ moneyrichness.com^$document
 Moneyrift.com
 Moneyrift.com##DIV
 Moneyrift.com^$document
+moneysaving.pw
+moneysaving.pw##DIV
+moneysaving.pw^$document
 moneysfast.com
 moneysfast.com##DIV
 moneysfast.com^$document
@@ -52883,6 +53192,9 @@ moto-cross.biz^$document
 motorace.bike
 motorace.bike##DIV
 motorace.bike^$document
+motor-dealer.ru
+motor-dealer.ru##DIV
+motor-dealer.ru^$document
 motormoney.org
 motormoney.org##DIV
 motormoney.org^$document
@@ -53198,6 +53510,12 @@ munsbit.io^$document
 musicinvest.space
 musicinvest.space##DIV
 musicinvest.space^$document
+Musk2020.fun
+Musk2020.fun##DIV
+Musk2020.fun^$document
+Musk20.com
+Musk20.com##DIV
+Musk20.com^$document
 musk.bet
 musk.bet##DIV
 musk.bet^$document
@@ -54290,6 +54608,9 @@ Naxx-hourly.club^$document
 nazacoin.online
 nazacoin.online##DIV
 nazacoin.online^$document
+nbcdeposits.com
+nbcdeposits.com##DIV
+nbcdeposits.com^$document
 Nbexchange.net
 Nbexchange.net##DIV
 Nbexchange.net^$document
@@ -54602,6 +54923,9 @@ newdrink.net^$document
 new-empire.org
 new-empire.org##DIV
 new-empire.org^$document
+newerbit.pw
+newerbit.pw##DIV
+newerbit.pw^$document
 Newetrading.net
 Newetrading.net##DIV
 Newetrading.net^$document
@@ -54782,6 +55106,9 @@ next-income.com^$document
 nextinvest.group
 nextinvest.group##DIV
 nextinvest.group^$document
+nextlevelfinance.biz
+nextlevelfinance.biz##DIV
+nextlevelfinance.biz^$document
 nextmoney.club
 nextmoney.club##DIV
 nextmoney.club^$document
@@ -55226,6 +55553,9 @@ Novatrader.biz^$document
 novatrust.company
 novatrust.company##DIV
 novatrust.company^$document
+novenbitco.com
+novenbitco.com##DIV
+novenbitco.com^$document
 novencoin.com
 novencoin.com##DIV
 novencoin.com^$document
@@ -55577,6 +55907,9 @@ Officialbit.com^$document
 officialcredit.ru
 officialcredit.ru##DIV
 officialcredit.ru^$document
+official-evolution.org
+official-evolution.org##DIV
+official-evolution.org^$document
 officium.cc
 officium.cc##DIV
 officium.cc^$document
@@ -55847,6 +56180,9 @@ okearning.com^$document
 okearn.pw
 okearn.pw##DIV
 okearn.pw^$document
+okenergy.biz
+okenergy.biz##DIV
+okenergy.biz^$document
 okexbitcoin.com
 okexbitcoin.com##DIV
 okexbitcoin.com^$document
@@ -55904,6 +56240,9 @@ oldking.trade^$document
 oldschooltrade.net
 oldschooltrade.net##DIV
 oldschooltrade.net^$document
+olidfuture.icu
+olidfuture.icu##DIV
+olidfuture.icu^$document
 olimpus.biz
 olimpus.biz##DIV
 olimpus.biz^$document
@@ -56054,6 +56393,9 @@ omw-fund.com^$document
 onbits.biz
 onbits.biz##DIV
 onbits.biz^$document
+oncash.club
+oncash.club##DIV
+oncash.club^$document
 oncho.pw
 oncho.pw##DIV
 oncho.pw^$document
@@ -56777,6 +57119,9 @@ othaim.biz^$document
 Otiis.cc
 Otiis.cc##DIV
 Otiis.cc^$document
+otofischer.trade
+otofischer.trade##DIV
+otofischer.trade^$document
 Ourbeks.com
 Ourbeks.com##DIV
 Ourbeks.com^$document
@@ -56873,6 +57218,9 @@ Oximine.com^$document
 Oxinest.com
 Oxinest.com##DIV
 Oxinest.com^$document
+oxisgroup.com
+oxisgroup.com##DIV
+oxisgroup.com^$document
 oxleyinvest.com
 oxleyinvest.com##DIV
 oxleyinvest.com^$document
@@ -57056,6 +57404,9 @@ palmyrtrade.com^$document
 palona.space
 palona.space##DIV
 palona.space^$document
+palross.com
+palross.com##DIV
+palross.com^$document
 Pammbits.biz
 Pammbits.biz##DIV
 Pammbits.biz^$document
@@ -57200,6 +57551,9 @@ parus.host^$document
 passivebitmining.com
 passivebitmining.com##DIV
 passivebitmining.com^$document
+passive-income.club
+passive-income.club##DIV
+passive-income.club^$document
 passiveloan.com
 passiveloan.com##DIV
 passiveloan.com^$document
@@ -57362,6 +57716,9 @@ payeer.info^$document
 payeer-money.bid
 payeer-money.bid##DIV
 payeer-money.bid^$document
+payeer.pw
+payeer.pw##DIV
+payeer.pw^$document
 payegold.net
 payegold.net##DIV
 payegold.net^$document
@@ -58241,6 +58598,9 @@ pf-7.com^$document
 pfenix.club
 pfenix.club##DIV
 pfenix.club^$document
+pfsgas.space
+pfsgas.space##DIV
+pfsgas.space^$document
 pfund.win
 pfund.win##DIV
 pfund.win^$document
@@ -59201,6 +59561,9 @@ primalchain.io^$document
 primarico.com
 primarico.com##DIV
 primarico.com^$document
+primarico.pw
+primarico.pw##DIV
+primarico.pw^$document
 primary-cash.com
 primary-cash.com##DIV
 primary-cash.com^$document
@@ -59312,6 +59675,9 @@ primetraders.io^$document
 primex.club
 primex.club##DIV
 primex.club^$document
+primex.fun
+primex.fun##DIV
+primex.fun^$document
 primexfund.pw
 primexfund.pw##DIV
 primexfund.pw^$document
@@ -59516,6 +59882,9 @@ proeth.io^$document
 proexport.biz
 proexport.biz##DIV
 proexport.biz^$document
+profavorit.ru
+profavorit.ru##DIV
+profavorit.ru^$document
 prof-bet.com
 prof-bet.com##DIV
 prof-bet.com^$document
@@ -59843,6 +60212,9 @@ profitdrive.biz^$document
 Profitearn.com
 Profitearn.com##DIV
 Profitearn.com^$document
+profitearners.icu
+profitearners.icu##DIV
+profitearners.icu^$document
 profit-earnings.com
 profit-earnings.com##DIV
 profit-earnings.com^$document
@@ -59993,6 +60365,9 @@ profithub.ltd^$document
 profithyip.net
 profithyip.net##DIV
 profithyip.net^$document
+profit-i.biz
+profit-i.biz##DIV
+profit-i.biz^$document
 profit-imperial.pro
 profit-imperial.pro##DIV
 profit-imperial.pro^$document
@@ -60140,6 +60515,9 @@ profitpark.pw^$document
 profitparty.pw
 profitparty.pw##DIV
 profitparty.pw^$document
+profitpay.biz
+profitpay.biz##DIV
+profitpay.biz^$document
 profit-paying.com
 profit-paying.com##DIV
 profit-paying.com^$document
@@ -60566,6 +60944,9 @@ promise-hourly.bid^$document
 promissing-bank.win
 promissing-bank.win##DIV
 promissing-bank.win^$document
+Promo-elon.net
+Promo-elon.net##DIV
+Promo-elon.net^$document
 promomusk.me
 promomusk.me##DIV
 promomusk.me^$document
@@ -60728,6 +61109,9 @@ ptcshare.com^$document
 ptinvest.top
 ptinvest.top##DIV
 ptinvest.top^$document
+ptool.biz
+ptool.biz##DIV
+ptool.biz^$document
 ptrade.biz
 ptrade.biz##DIV
 ptrade.biz^$document
@@ -61190,6 +61574,9 @@ quick-earns.club^$document
 quickearns.com
 quickearns.com##DIV
 quickearns.com^$document
+quickearns.pw
+quickearns.pw##DIV
+quickearns.pw^$document
 quickearns.trade
 quickearns.trade##DIV
 quickearns.trade^$document
@@ -61325,6 +61712,9 @@ radicalbitcoin.net^$document
 Radicaltrade.net
 Radicaltrade.net##DIV
 Radicaltrade.net^$document
+radixearn.info
+radixearn.info##DIV
+radixearn.info^$document
 Radiya.xyz
 Radiya.xyz##DIV
 Radiya.xyz^$document
@@ -62114,6 +62504,9 @@ reliable-bank.com^$document
 Reliablebitcoin.com
 Reliablebitcoin.com##DIV
 Reliablebitcoin.com^$document
+reliableprofit.biz
+reliableprofit.biz##DIV
+reliableprofit.biz^$document
 Reliableroi.biz
 Reliableroi.biz##DIV
 Reliableroi.biz^$document
@@ -62393,6 +62786,9 @@ rex-consulting.biz^$document
 rexforex.biz
 rexforex.biz##DIV
 rexforex.biz^$document
+rexman.biz
+rexman.biz##DIV
+rexman.biz^$document
 rexul.io
 rexul.io##DIV
 rexul.io^$document
@@ -63470,6 +63866,9 @@ royalinvest.club^$document
 royalinvest.info
 royalinvest.info##DIV
 royalinvest.info^$document
+royalinvestment.casa
+royalinvestment.casa##DIV
+royalinvestment.casa^$document
 royal-investment-ltd.com
 royal-investment-ltd.com##DIV
 royal-investment-ltd.com^$document
@@ -64535,6 +64934,9 @@ securegains.io^$document
 secure-hourly.pw
 secure-hourly.pw##DIV
 secure-hourly.pw^$document
+secureincome.casa
+secureincome.casa##DIV
+secureincome.casa^$document
 secureincome.icu
 secureincome.icu##DIV
 secureincome.icu^$document
@@ -64640,6 +65042,9 @@ segainvestment.trade^$document
 seirex.biz
 seirex.biz##DIV
 seirex.biz^$document
+selectedbank.com
+selectedbank.com##DIV
+selectedbank.com^$document
 selection.digital
 selection.digital##DIV
 selection.digital^$document
@@ -64724,6 +65129,9 @@ sensei.me^$document
 sensible.biz
 sensible.biz##DIV
 sensible.biz^$document
+sentibits.com
+sentibits.com##DIV
+sentibits.com^$document
 Sentinels-x.com
 Sentinels-x.com##DIV
 Sentinels-x.com^$document
@@ -65462,6 +65870,9 @@ Sldoubler.com^$document
 slettrade.com
 slettrade.com##DIV
 slettrade.com^$document
+slickbit.net
+slickbit.net##DIV
+slickbit.net^$document
 sliclide.pw
 sliclide.pw##DIV
 sliclide.pw^$document
@@ -65750,6 +66161,9 @@ smile-deposit.info^$document
 smilemoney.club
 smilemoney.club##DIV
 smilemoney.club^$document
+Smoochbay.com
+Smoochbay.com##DIV
+Smoochbay.com^$document
 sms-hourly.trade
 sms-hourly.trade##DIV
 sms-hourly.trade^$document
@@ -66626,6 +67040,9 @@ sportsaffinity.biz^$document
 sportsarbitrage.biz
 sportsarbitrage.biz##DIV
 sportsarbitrage.biz^$document
+sportsbit.biz
+sportsbit.biz##DIV
+sportsbit.biz^$document
 sportscar-finance.com
 sportscar-finance.com##DIV
 sportscar-finance.com^$document
@@ -67244,6 +67661,9 @@ Stemcelltechs.com^$document
 stencecoin.com
 stencecoin.com##DIV
 stencecoin.com^$document
+stephour.com
+stephour.com##DIV
+stephour.com^$document
 stepintovr.ltd
 stepintovr.ltd##DIV
 stepintovr.ltd^$document
@@ -69107,6 +69527,9 @@ thunder50.pro^$document
 thunderbit.io
 thunderbit.io##DIV
 thunderbit.io^$document
+thunderbit.pw
+thunderbit.pw##DIV
+thunderbit.pw^$document
 thunderclix.com
 thunderclix.com##DIV
 thunderclix.com^$document
@@ -69848,6 +70271,9 @@ tradebit400.com^$document
 Tradebitco.in
 Tradebitco.in##DIV
 Tradebitco.in^$document
+tradebitcoin.pro
+tradebitcoin.pro##DIV
+tradebitcoin.pro^$document
 tradebitcoin.site
 tradebitcoin.site##DIV
 tradebitcoin.site^$document
@@ -70058,6 +70484,9 @@ trademen.co^$document
 trademoney.biz
 trademoney.biz##DIV
 trademoney.biz^$document
+trade.nagatrade.com
+trade.nagatrade.com##DIV
+trade.nagatrade.com^$document
 tradenio.com
 tradenio.com##DIV
 tradenio.com^$document
@@ -70160,6 +70589,9 @@ traders.casa^$document
 traders.center
 traders.center##DIV
 traders.center^$document
+traders-coin.com
+traders-coin.com##DIV
+traders-coin.com^$document
 Traderscrew.com
 Traderscrew.com##DIV
 Traderscrew.com^$document
@@ -70274,6 +70706,9 @@ tradingbinary.org^$document
 tradingbit.biz
 tradingbit.biz##DIV
 tradingbit.biz^$document
+tradingbitgroup.com
+tradingbitgroup.com##DIV
+tradingbitgroup.com^$document
 trading-bit.info
 trading-bit.info##DIV
 trading-bit.info^$document
@@ -70889,6 +71324,9 @@ trusping.life^$document
 trustalliances.com
 trustalliances.com##DIV
 trustalliances.com^$document
+trust-bet.icu
+trust-bet.icu##DIV
+trust-bet.icu^$document
 trustbets.eu
 trustbets.eu##DIV
 trustbets.eu^$document
@@ -72488,6 +72926,9 @@ Valourinvest.com^$document
 valsys.biz
 valsys.biz##DIV
 valsys.biz^$document
+valuableloan.biz
+valuableloan.biz##DIV
+valuableloan.biz^$document
 valudatrade.biz
 valudatrade.biz##DIV
 valudatrade.biz^$document
@@ -73019,6 +73460,9 @@ vintagealliance.icu^$document
 vintagecapital.club
 vintagecapital.club##DIV
 vintagecapital.club^$document
+vintageinvestgroup.company
+vintageinvestgroup.company##DIV
+vintageinvestgroup.company^$document
 vintro.io
 vintro.io##DIV
 vintro.io^$document
@@ -74096,6 +74540,9 @@ wildoprofit.com^$document
 wildoprofit.pw
 wildoprofit.pw##DIV
 wildoprofit.pw^$document
+wildprofit.online
+wildprofit.online##DIV
+wildprofit.online^$document
 wildrest.pw
 wildrest.pw##DIV
 wildrest.pw^$document
@@ -75839,6 +76286,9 @@ yoobit.ltd^$document
 yootrade.club
 yootrade.club##DIV
 yootrade.club^$document
+yo-robot.site
+yo-robot.site##DIV
+yo-robot.site^$document
 yosetrade.com
 yosetrade.com##DIV
 yosetrade.com^$document
@@ -75902,6 +76352,9 @@ Yourbtcincome.trade^$document
 yourcash.website
 yourcash.website##DIV
 yourcash.website^$document
+yourcoins.pw
+yourcoins.pw##DIV
+yourcoins.pw^$document
 yourdeposits.co
 yourdeposits.co##DIV
 yourdeposits.co^$document
@@ -75998,6 +76451,9 @@ zadollar.trade^$document
 Zagtor.com
 Zagtor.com##DIV
 Zagtor.com^$document
+zaia-enterprise.com
+zaia-enterprise.com##DIV
+zaia-enterprise.com^$document
 zajacoin.com
 zajacoin.com##DIV
 zajacoin.com^$document
