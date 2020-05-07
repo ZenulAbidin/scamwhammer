@@ -8,6 +8,17 @@
 
 ! Avoid adding comments after the first ten lines, my script confuses them for entries. Do not alter the first 10 lines except for update and last modified.
 
+Mirrortradinginternational.com
+citios.io
+X2btc.club
+Bitrust.ltd
+Bittx.xyz
+Cloudfx.ltd
+Seventrading.online
+Gold-token.best
+Multidouble.tech
+Nitro2x.com
+Crypto2x.vip
 01crypto.net
 01crypto.net##DIV
 01crypto.net^$document
@@ -1271,9 +1282,12 @@ accnetcoin.com^$document
 account-kigo.net
 account-kigo.net##DIV
 account-kigo.net^$document
-account-store.online
-account-store.online##DIV
-account-store.online^$document
+https://account-store.online
+https://account-store.online##DIV
+https://account-store.online^$document
+http://account-store.online
+http://account-store.online##DIV
+http://account-store.online^$document
 Accra.systems
 Accra.systems##DIV
 Accra.systems^$document
